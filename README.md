@@ -1,0 +1,2 @@
+# DynamicWebTextDisplay
+基於動態輸入的網頁文字顯示器
